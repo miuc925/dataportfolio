@@ -10,4 +10,4 @@ Let's find out where it leads!
 
 
 Contacts:
-- LinkedIn: www.linkedin.com/in/miucheung
+- [LinkedIn](www.linkedin.com/in/miucheung)
