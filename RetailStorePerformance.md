@@ -1,6 +1,10 @@
 The dataset named as "Retail Store Performance" is found [here](https://www.kaggle.com/datasets/pereprosov/retail-store-performance).
 
 Here you will find proposed business questions along with attempts to address them with SQL.
+- [Question 1](#Question-1)
+- [Question 2](#Question-2)_
+- [Question 3](#Question-3)
+- [Question 4](#Question-4)
 
 ***
 
