@@ -89,7 +89,7 @@ order by storecategory, total desc
 #### Question 4
 How are the revenues affected with stores distances with competitors?
 
-- Create revenue rank numbers for better view of comparison
+- Create revenue rank numbers for better view
 
 ```sql
 with rankedstores AS (
