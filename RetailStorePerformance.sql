@@ -12,11 +12,13 @@ Stores need to be selected for renovation to improve competitiveness */
 -- criteria 2: monthly revenue ($ k) > average revenue
 -- criteria 3: distance with competitor < 10
 
+```sql
 select storeage, monthlysalesrevenue, round((select avg(monthlysalesrevenue) from Store_CA),2) as average_revenue, competitordistance, storelocation, storecategory
 from Store_CA
 where storeage > 25 
   and monthlysalesrevenue < average_revenue 
   and competitordistance <= 10 
+```
 
 
 /* Question 2
