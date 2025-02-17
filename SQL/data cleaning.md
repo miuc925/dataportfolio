@@ -4,10 +4,10 @@ Original data set contains 10000 rows of data.
 Expected the goal is to clean the data as much as possible and to be available for further analysis.
 
 Content:
-- [Step 1: Checking data schema](#Step-1:-Checking-data-schema)
-- [Step 2: Checking data quality](#Step-2:-Checking-data-quality)
-- [Step 3: FirstAid and surgery](#Step-3:-FirstAid-and-surgery)
-- [Step 4: Finding a new home](#Step-4:-Finding-a-new-home)
+- [Step 1: Checking data schema](#Step-1-Checking-data-schema)
+- [Step 2: Checking data quality](#Step-2-Checking-data-quality)
+- [Step 3: FirstAid and surgery](#Step-3-FirstAid-and-surgery)
+- [Step 4: Finding a new home](#Step-4-Finding-a-new-home)
 - [Conclusion](#Conclusion)
 
 ***
